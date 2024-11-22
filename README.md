@@ -9,7 +9,7 @@ Funcionalidades
 Entrada de Arquivo: Aceita um arquivo de domínios como argumento, tornando a análise de listas de domínios mais prática.
 Tratamento de Erros: Identifica e trata erros de conexão e timeout, fornecendo mensagens claras.
 Análise de Respostas HTTP: Registra e exibe a quantidade de respostas agrupadas por código de status.
-Banners Aleatórios: Adiciona banners ASCII no início de cada execução para um toque divertido e personalizado!
+
 Como Usar
 
 Pré-requisitos: Instale a biblioteca requests:
